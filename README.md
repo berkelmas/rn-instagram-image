@@ -16,4 +16,4 @@
 
 ## Example Usage
 
-![alt text](https://github.com/berkelmas/rn-instagram-image/blob/master/rn-image-gif.gif)
+![alt text](https://github.com/berkelmas/rn-instagram-image/raw/master/rn-image-gif.gif)
